@@ -1,3 +1,2 @@
 ----
-config:
-    name: "Configurations"
+config-name: "configuration"
